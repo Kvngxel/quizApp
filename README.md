@@ -1,2 +1,2 @@
 # quizApp
-Quiz app built by Eze Excel and Jameel Hassan Nalaraba
+Quiz app built by Chukwuemeka and Jameel Hassan Nalaraba
